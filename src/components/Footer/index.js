@@ -6,7 +6,7 @@ function Footer() {
     <FooterBase>
       <a href="http://www.visao-ol.com.br/">
       <img src="../../assets/img/Logo-white.png" alt="Logo Jones" />
-      </a>
+      </a>s
       <p>
         Todos os direitos reservados.
         {' '}
