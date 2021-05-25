@@ -1,12 +1,20 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      //"titulo": "Front End",
+      //"link": "https://www.alura.com.br/formacao-front-end",
+      //"cor": "#6BD1FF",
+      //"link_extra": {
+      //  "text": "Formação de Front End na Alura",
+      //  "url": "https://www.alura.com.br/cursos-online-front-end"
+
+      "titulo": "Visão On-line",
+      "link": "https://www.youtube.com/channel/UCg6kvz6q4zeMRnIOVL0iUAQ",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Visão On-line Assessoria e Informática Ltda.",
+        "url": "https://www.youtube.com/channel/UCg6kvz6q4zeMRnIOVL0iUAQ"
+
       },
       "videos": [
         {
