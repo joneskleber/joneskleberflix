@@ -5,7 +5,7 @@ function Footer() {
   return (
     <FooterBase>
       <a href="http://www.visao-ol.com.br/">
-      <img src="../assets/img/Logo-white.png" alt="Logo Jones" />
+      <img src="../../assets/img/Logo-white.png" alt="Logo Jones" />
       </a>
       <p>
         Todos os direitos reservados.
